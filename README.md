@@ -1,2 +1,2 @@
 # snowkernel
-小米8内核
+dipper
